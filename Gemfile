@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #font awesome icon font
 gem 'font-awesome-sass'
 
+#devise for user management
+gem 'devise'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
